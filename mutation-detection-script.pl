@@ -1,3 +1,6 @@
+##Author: Mustafa Adel
+##mustafa.adel@aucegypt.edu
+
 #!/usr/bin/perl
 use strict;
 use Bio::SearchIO;
